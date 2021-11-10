@@ -2,4 +2,4 @@
 
 An image packing algorithm.
 
-A better readme is due soon. For now, please check [`src/japacker.h`](blob/main/src/japacker.h) for documentation.
+A better readme is due soon. For now, please check [`src/japacker.h`](src/japacker.h) for documentation.
